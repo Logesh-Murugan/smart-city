@@ -1,4 +1,4 @@
-#🌆 Smart City Management System
+🌆 Smart City Management System
 
 A Java Swing-based desktop application to streamline city governance by digitizing complaint registration and public service requests. This project is built with Java, Swing, MySQL, and JDBC for real-time data operations and user/admin dashboards.
 
