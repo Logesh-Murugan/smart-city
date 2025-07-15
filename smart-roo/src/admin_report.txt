@@ -1,6 +1,0 @@
-Admin Report Summary:
----------------------
-Total Complaints: 2
-Closed Complaints: 1
-Total Service Requests: 1
-Closed Service Requests: 1
